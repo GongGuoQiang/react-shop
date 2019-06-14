@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* + */
+.am-tab-bar{
+  height: 100vh;
+}
+#tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 100%;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
